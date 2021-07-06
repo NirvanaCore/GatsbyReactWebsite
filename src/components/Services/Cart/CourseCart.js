@@ -37,7 +37,7 @@ export default class CourseCart extends Component {
                       data-item-id={node.id}
                       data-item-name={node.title}
                       data-item-price={node.price}
-                      data-item-url="http:/nirvanacore.in"
+                      data-item-url="https://gatsby-reactwebsite.netlify.app"
                       data-item-image={node.image.fixed.src}
                     >
                       Join Now
