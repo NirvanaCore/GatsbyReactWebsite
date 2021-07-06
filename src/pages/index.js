@@ -5,7 +5,7 @@ import Seo from "../components/seo"
 import HeroSection from "../components/Reusable/HeroSection"
 import InfoBlock from "../components/Reusable/InfoBlock"
 import DualInfoBlock from "../components/Reusable/DualInfoBlock"
-import CourseCart from "../components/Cart/CourseCart"
+import CourseCart from "../components/Services/Cart/CourseCart"
 
 const IndexPage = ({ data }) => (
   <Layout>
